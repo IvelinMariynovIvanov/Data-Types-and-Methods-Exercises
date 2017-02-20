@@ -1,0 +1,8 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\bin\Debug\02 Practice Floating Point Numbers.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\bin\Debug\02 Practice Floating Point Numbers.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\bin\Debug\02 Practice Floating Point Numbers.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\obj\Debug\02 Practice Floating Point Numbers.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\obj\Debug\02 Practice Floating Point Numbers.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\bin\Debug\02 Practice Floating Point Numbers.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\obj\Debug\02 Practice Floating Point Numbers.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\02 Practice Floating Point Numbers\obj\Debug\02 Practice Floating Point Numbers.pdb

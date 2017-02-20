@@ -1,0 +1,8 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03.Practice Characters and Strings\bin\Debug\03.Practice Characters and Strings.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03.Practice Characters and Strings\bin\Debug\03.Practice Characters and Strings.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03.Practice Characters and Strings\bin\Debug\03.Practice Characters and Strings.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03.Practice Characters and Strings\obj\Debug\03.Practice Characters and Strings.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03.Practice Characters and Strings\obj\Debug\03.Practice Characters and Strings.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\03.Practice Characters and Strings\bin\Debug\03.Practice Characters and Strings.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\03.Practice Characters and Strings\obj\Debug\03.Practice Characters and Strings.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\03.Practice Characters and Strings\obj\Debug\03.Practice Characters and Strings.pdb

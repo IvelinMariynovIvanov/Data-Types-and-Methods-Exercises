@@ -1,0 +1,11 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\14. Integer to Hex and Binary\obj\Debug\14. Integer to Hex and Binary.csprojResolveAssemblyReference.cache

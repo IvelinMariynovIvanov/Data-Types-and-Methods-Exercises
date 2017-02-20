@@ -1,0 +1,12 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name оf The Last Digit\bin\Debug\_20.English_Name_оf_The_Last_Digit.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name оf The Last Digit\obj\Debug\20. English Name оf The Last Digit.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name оf The Last Digit\bin\Debug\_20.English_Name_оf_The_Last_Digit.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name оf The Last Digit\bin\Debug\_20.English_Name_оf_The_Last_Digit.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name оf The Last Digit\obj\Debug\_20.English_Name_оf_The_Last_Digit.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name оf The Last Digit\obj\Debug\_20.English_Name_оf_The_Last_Digit.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20. English Name оf The Last Digit\bin\Debug\_20.English_Name_оf_The_Last_Digit.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20. English Name оf The Last Digit\obj\Debug\_20.English_Name_оf_The_Last_Digit.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20. English Name оf The Last Digit\obj\Debug\_20.English_Name_оf_The_Last_Digit.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20. English Name оf The Last Digit\bin\Debug\_20.English_Name_оf_The_Last_Digit.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20. English Name оf The Last Digit\bin\Debug\_20.English_Name_оf_The_Last_Digit.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20. English Name оf The Last Digit\obj\Debug\20. English Name оf The Last Digit.csprojResolveAssemblyReference.cache

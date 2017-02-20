@@ -1,0 +1,12 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache

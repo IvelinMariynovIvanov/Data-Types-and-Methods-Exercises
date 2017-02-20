@@ -1,0 +1,10 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\21. Numbers in Reversed Order\bin\Debug\_21.Numbers_in_Reversed_Order.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\21. Numbers in Reversed Order\bin\Debug\_21.Numbers_in_Reversed_Order.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\21. Numbers in Reversed Order\bin\Debug\_21.Numbers_in_Reversed_Order.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\21. Numbers in Reversed Order\obj\Debug\_21.Numbers_in_Reversed_Order.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\21. Numbers in Reversed Order\obj\Debug\_21.Numbers_in_Reversed_Order.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21. Numbers in Reversed Order\bin\Debug\_21.Numbers_in_Reversed_Order.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21. Numbers in Reversed Order\obj\Debug\_21.Numbers_in_Reversed_Order.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21. Numbers in Reversed Order\obj\Debug\_21.Numbers_in_Reversed_Order.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21. Numbers in Reversed Order\bin\Debug\_21.Numbers_in_Reversed_Order.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21. Numbers in Reversed Order\bin\Debug\_21.Numbers_in_Reversed_Order.pdb

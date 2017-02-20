@@ -1,0 +1,5 @@
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\23\bin\Debug\23.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\23\bin\Debug\23.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\23\bin\Debug\23.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\23\obj\Debug\23.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\23\obj\Debug\23.pdb

@@ -1,0 +1,6 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\04Variable in Hexadecimal Format\bin\Debug\04Variable in Hexadecimal Format.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\04Variable in Hexadecimal Format\bin\Debug\04Variable in Hexadecimal Format.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\04Variable in Hexadecimal Format\bin\Debug\04Variable in Hexadecimal Format.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\04Variable in Hexadecimal Format\bin\Debug\04Variable in Hexadecimal Format.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\04Variable in Hexadecimal Format\obj\Debug\04Variable in Hexadecimal Format.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\04Variable in Hexadecimal Format\obj\Debug\04Variable in Hexadecimal Format.pdb

@@ -1,0 +1,12 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\11. Convert Speed Units.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\11. Convert Speed Units.csprojResolveAssemblyReference.cache

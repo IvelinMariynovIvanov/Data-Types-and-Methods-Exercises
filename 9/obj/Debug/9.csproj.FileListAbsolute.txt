@@ -1,0 +1,6 @@
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\9\bin\Debug\9.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\9\bin\Debug\9.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\9\bin\Debug\9.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\9\obj\Debug\9.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\9\obj\Debug\9.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\9\obj\Debug\9.csprojResolveAssemblyReference.cache

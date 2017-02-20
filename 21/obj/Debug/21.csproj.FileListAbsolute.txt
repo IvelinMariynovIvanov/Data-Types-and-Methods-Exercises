@@ -1,0 +1,5 @@
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21\bin\Debug\21.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21\bin\Debug\21.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21\bin\Debug\21.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21\obj\Debug\21.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\21\obj\Debug\21.pdb

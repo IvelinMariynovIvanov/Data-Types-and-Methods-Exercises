@@ -1,0 +1,12 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\26Factorial\bin\Debug\26Factorial.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\26Factorial\obj\Debug\26Factorial.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\26Factorial\bin\Debug\26Factorial.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\26Factorial\bin\Debug\26Factorial.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\26Factorial\obj\Debug\26Factorial.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\26Factorial\obj\Debug\26Factorial.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\26Factorial\bin\Debug\26Factorial.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\26Factorial\obj\Debug\26Factorial.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\26Factorial\obj\Debug\26Factorial.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\26Factorial\bin\Debug\26Factorial.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\26Factorial\bin\Debug\26Factorial.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\26Factorial\obj\Debug\26Factorial.csprojResolveAssemblyReference.cache

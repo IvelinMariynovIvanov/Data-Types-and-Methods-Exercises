@@ -1,0 +1,8 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06.Strings and Objects\bin\Debug\06.Strings and Objects.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06.Strings and Objects\bin\Debug\06.Strings and Objects.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06.Strings and Objects\bin\Debug\06.Strings and Objects.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06.Strings and Objects\obj\Debug\06.Strings and Objects.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06.Strings and Objects\obj\Debug\06.Strings and Objects.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\06.Strings and Objects\bin\Debug\06.Strings and Objects.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\06.Strings and Objects\obj\Debug\06.Strings and Objects.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\06.Strings and Objects\obj\Debug\06.Strings and Objects.pdb

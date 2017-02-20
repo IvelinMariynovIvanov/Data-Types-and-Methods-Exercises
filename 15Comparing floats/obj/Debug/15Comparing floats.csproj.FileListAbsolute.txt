@@ -1,0 +1,8 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\15Comparing floats\bin\Debug\15Comparing floats.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\15Comparing floats\bin\Debug\15Comparing floats.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\15Comparing floats\bin\Debug\15Comparing floats.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\15Comparing floats\obj\Debug\15Comparing floats.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\15Comparing floats\obj\Debug\15Comparing floats.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\15Comparing floats\bin\Debug\15Comparing floats.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\15Comparing floats\obj\Debug\15Comparing floats.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\15Comparing floats\obj\Debug\15Comparing floats.pdb

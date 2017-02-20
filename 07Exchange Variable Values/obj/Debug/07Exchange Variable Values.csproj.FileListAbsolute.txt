@@ -1,0 +1,10 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\07Exchange Variable Values\bin\Debug\07Exchange Variable Values.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\07Exchange Variable Values\bin\Debug\07Exchange Variable Values.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\07Exchange Variable Values\bin\Debug\07Exchange Variable Values.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\07Exchange Variable Values\obj\Debug\07Exchange Variable Values.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\07Exchange Variable Values\obj\Debug\07Exchange Variable Values.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\07Exchange Variable Values\bin\Debug\07Exchange Variable Values.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\07Exchange Variable Values\obj\Debug\07Exchange Variable Values.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\07Exchange Variable Values\obj\Debug\07Exchange Variable Values.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\07Exchange Variable Values\bin\Debug\07Exchange Variable Values.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\07Exchange Variable Values\bin\Debug\07Exchange Variable Values.pdb

@@ -1,0 +1,6 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\17Different Integers Size\bin\Debug\17Different Integers Size.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\17Different Integers Size\obj\Debug\17Different Integers Size.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\17Different Integers Size\bin\Debug\17Different Integers Size.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\17Different Integers Size\bin\Debug\17Different Integers Size.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\17Different Integers Size\obj\Debug\17Different Integers Size.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\17Different Integers Size\obj\Debug\17Different Integers Size.pdb

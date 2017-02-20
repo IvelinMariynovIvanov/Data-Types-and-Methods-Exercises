@@ -1,0 +1,6 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\Data Types and Methods - Exercises\bin\Debug\Data Types and Methods - Exercises.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\Data Types and Methods - Exercises\bin\Debug\Data Types and Methods - Exercises.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\Data Types and Methods - Exercises\bin\Debug\Data Types and Methods - Exercises.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\Data Types and Methods - Exercises\obj\Debug\01. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\Data Types and Methods - Exercises\obj\Debug\Data Types and Methods - Exercises.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\Data Types and Methods - Exercises\obj\Debug\Data Types and Methods - Exercises.pdb

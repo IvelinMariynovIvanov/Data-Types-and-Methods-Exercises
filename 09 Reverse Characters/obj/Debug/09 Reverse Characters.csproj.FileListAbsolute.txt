@@ -1,0 +1,12 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09 Reverse Characters\bin\Debug\09 Reverse Characters.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09 Reverse Characters\bin\Debug\09 Reverse Characters.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09 Reverse Characters\bin\Debug\09 Reverse Characters.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09 Reverse Characters\obj\Debug\09 Reverse Characters.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09 Reverse Characters\obj\Debug\09 Reverse Characters.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09 Reverse Characters\obj\Debug\09 Reverse Characters.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\09 Reverse Characters\bin\Debug\09 Reverse Characters.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\09 Reverse Characters\obj\Debug\09 Reverse Characters.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\09 Reverse Characters\obj\Debug\09 Reverse Characters.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\09 Reverse Characters\bin\Debug\09 Reverse Characters.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\09 Reverse Characters\bin\Debug\09 Reverse Characters.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\09 Reverse Characters\obj\Debug\09 Reverse Characters.csprojResolveAssemblyReference.cache

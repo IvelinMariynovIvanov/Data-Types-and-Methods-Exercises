@@ -1,0 +1,10 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05Boolean Variable\bin\Debug\05Boolean Variable.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05Boolean Variable\bin\Debug\05Boolean Variable.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05Boolean Variable\bin\Debug\05Boolean Variable.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05Boolean Variable\obj\Debug\05Boolean Variable.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05Boolean Variable\obj\Debug\05Boolean Variable.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\05Boolean Variable\bin\Debug\05Boolean Variable.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\05Boolean Variable\obj\Debug\05Boolean Variable.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\05Boolean Variable\obj\Debug\05Boolean Variable.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\05Boolean Variable\bin\Debug\05Boolean Variable.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\05Boolean Variable\bin\Debug\05Boolean Variable.pdb

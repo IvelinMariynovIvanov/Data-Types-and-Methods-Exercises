@@ -1,0 +1,12 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\ConsoleApplication1\obj\Debug\19 Max Method.csprojResolveAssemblyReference.cache
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\ConsoleApplication1\obj\Debug\19 Max Method.csprojResolveAssemblyReference.cache

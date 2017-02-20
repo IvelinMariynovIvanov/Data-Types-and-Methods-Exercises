@@ -1,0 +1,9 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08 Employee Data\bin\Debug\08 Employee Data.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08 Employee Data\bin\Debug\08 Employee Data.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08 Employee Data\bin\Debug\08 Employee Data.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08 Employee Data\obj\Debug\08 Employee Data.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08 Employee Data\obj\Debug\08 Employee Data.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08 Employee Data\obj\Debug\08 Employee Data.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\08 Employee Data\bin\Debug\08 Employee Data.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\08 Employee Data\obj\Debug\08 Employee Data.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\08 Employee Data\obj\Debug\08 Employee Data.pdb

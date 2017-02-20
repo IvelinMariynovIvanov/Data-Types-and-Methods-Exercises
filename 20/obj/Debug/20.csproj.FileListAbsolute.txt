@@ -1,0 +1,5 @@
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20\bin\Debug\20.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20\bin\Debug\20.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20\bin\Debug\20.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20\obj\Debug\20.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\20\obj\Debug\20.pdb

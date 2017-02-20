@@ -1,0 +1,9 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csprojResolveAssemblyReference.cache
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

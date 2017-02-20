@@ -1,0 +1,10 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII_Table.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII_Table.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII_Table.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\obj\Debug\_16.Print_Part_of_the_ASCII_Table.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\obj\Debug\_16.Print_Part_of_the_ASCII_Table.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII_Table.exe.config
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\obj\Debug\_16.Print_Part_of_the_ASCII_Table.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\obj\Debug\_16.Print_Part_of_the_ASCII_Table.pdb
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII_Table.exe
+M:\proekti\c#\C#Basic\Data Types and Methods - Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII_Table.pdb
